@@ -41,7 +41,11 @@ a {
   font-family: Arial;
   font-style: italic;
   font-size: 14px;
-  /*color: rgb(0, 255, 64);*/
+  color: rgb(0, 255, 64);
   font-variant: small-caps;
   font-weight: bold;
+}
+
+.destaque {
+  color: blue;
 }
